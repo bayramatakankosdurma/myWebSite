@@ -1,0 +1,19 @@
+/* Navbar configs */
+
+.topnav a{
+    border-bottom: 3px solid transparent;
+    text-align: center;
+    display: block;
+}
+
+.topnav a:hover {
+    border-bottom: 3px solid gold;
+  }
+  
+  .topnav a.active {
+    border-bottom: 3px solid gold;
+  }
+
+  h2.MainPage{
+    color: slategrey;
+  }
