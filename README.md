@@ -1,4 +1,4 @@
-# myWebSite
+<h1 color="blue">myWebSite</h1>
 
 <h2 align="center">In this repository, I will upload the codes of my personal website.</h2>
 <br>

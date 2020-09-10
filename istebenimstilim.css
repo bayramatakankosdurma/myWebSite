@@ -1,19 +1,27 @@
 /* Navbar configs */
+.navbar{
+  box-shadow: 0 4px 4px 0px rgba(0,0,0,0.40);
+  width: 100%;
+}
 
 .topnav a{
     border-bottom: 3px solid transparent;
     text-align: center;
     display: block;
+    
 }
 
 .topnav a:hover {
-    border-bottom: 3px solid gold;
+    border-bottom: 3px solid greenyellow;
   }
   
-  .topnav a.active {
+.topnav a.active {
     border-bottom: 3px solid gold;
   }
 
-  h2.MainPage{
-    color: slategrey;
-  }
+  /*Footer configs*/
+.footer {
+margin-top: 40px;
+text-align: center;
+margin-bottom: 0;
+}
